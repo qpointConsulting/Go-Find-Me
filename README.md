@@ -7,4 +7,6 @@ Note that any successful links are copied into a CSV file named `userResults.csv
 
 ## Please note that this is a work in progress and more info will be added to the Readme when time allows - thanks!
 
-# License
+## License
+
+Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.
