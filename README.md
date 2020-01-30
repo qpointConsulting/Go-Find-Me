@@ -9,4 +9,6 @@ Note that any successful links are copied into a CSV file named `userResults.csv
 
 ## License
 
+![alt text](https://www.flickr.com/photos/39964909@N03/3738225457 "CC Logo")
+
 Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) Public License.
