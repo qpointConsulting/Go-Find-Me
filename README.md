@@ -1,7 +1,7 @@
 # Go-Find-Me
 Search User Names on a variety of sites based on the work of Micah Hoffman (@WebBreacher)
 
-For a screen capture of the main view, please see the Images folder.
+![alt text] (https://github.com/qpointConsulting/Go-Find-Me/blob/master/Images/WhoAmI_Main.PNG "Main Frame")
 
 Note that any successful links are copied into a CSV file for verification of the username being associated with the person whose name you searched on. This is automatically copied into the same directory where you ran your script from.
 
