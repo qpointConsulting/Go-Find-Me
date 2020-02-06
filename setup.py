@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="python-GoFindMe", # Replace with your own username
     version="0.0.1",
-    packages=["src",],
+    packages=find_packages()
     author="Bryan Galbraith, Micah Hoffman",
     author_email="qpoint@shaw.ca",
     description="A small app to locate usernames on various social media sites",
