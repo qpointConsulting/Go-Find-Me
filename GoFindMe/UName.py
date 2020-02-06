@@ -5,7 +5,8 @@ Created on Jan 22, 2020
 '''
 
 import wx
-import configParams
+#import configParams
+from GoFindMe import configParams
 from pubsub import pub
 from goFindThem import searchUsers
 
