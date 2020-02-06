@@ -11,7 +11,7 @@ setuptools.setup(
     author_email="qpoint@shaw.ca",
     description="A small app to locate usernames on various social media sites",
     url="https://github.com/qpointconsulting/Go-Find-Me",
-    packages=setuptools.find_packages(where="src"),
+    packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
