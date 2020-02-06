@@ -8,8 +8,9 @@ interface to a wxPython GUI
 '''
 
 import wx
+import UName
 from pubsub import pub
-from GoFindMe.UName import tabUName
+from UName import tabUName
 
 
 class MainFrame(wx.Frame):
