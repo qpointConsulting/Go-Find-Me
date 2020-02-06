@@ -7,6 +7,8 @@ setuptools.setup(
     name="python-GoFindMe", # Replace with your own username
     version="0.0.1",
     packages=['GoFindMe'],
+    package_data={'':['web_accounts_list.json']},
+    include_package_data=True,
     author="Bryan Galbraith, Micah Hoffman",
     author_email="qpoint@shaw.ca",
     description="A small app to locate usernames on various social media sites",
