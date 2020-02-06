@@ -1,2 +1,2 @@
-from .GoFindMe import *
-from .UNmame import *
+from GoFindMe import *
+from UNmame import *
