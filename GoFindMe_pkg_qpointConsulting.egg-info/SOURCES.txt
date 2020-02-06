@@ -1,6 +1,0 @@
-README.md
-setup.py
-GoFindMe_pkg_qpointConsulting.egg-info/PKG-INFO
-GoFindMe_pkg_qpointConsulting.egg-info/SOURCES.txt
-GoFindMe_pkg_qpointConsulting.egg-info/dependency_links.txt
-GoFindMe_pkg_qpointConsulting.egg-info/top_level.txt
