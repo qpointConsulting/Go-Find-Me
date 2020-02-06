@@ -5,12 +5,10 @@ Created on Jan 22, 2020
 '''
 
 import wx
-#import configParams
-from GoFindMe import configParams
-from GoFindMe import goFindThem
+import configParams
 from pubsub import pub
 #from GoFindMe import goFindMe.searchUsers
-#from goFindThem import searchUsers
+from goFindThem import searchUsers
 
 
 class tabUName(wx.Panel):
