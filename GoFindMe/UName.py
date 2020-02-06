@@ -8,7 +8,6 @@ import wx
 #import configParams
 from GoFindMe import configParams
 from GoFindMe import goFindThem
-from goFindThem import *
 from pubsub import pub
 #from GoFindMe import goFindMe.searchUsers
 #from goFindThem import searchUsers
