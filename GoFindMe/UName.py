@@ -7,6 +7,7 @@ Created on Jan 22, 2020
 import wx
 #import configParams
 from GoFindMe import configParams
+from GoFindMe import goFindThem
 from pubsub import pub
 from goFindThem import searchUsers
 
