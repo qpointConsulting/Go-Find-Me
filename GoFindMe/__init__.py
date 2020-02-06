@@ -1,2 +1,2 @@
-from .UName import *
-from .configParams import *
+from UName import *
+from configParams import *
