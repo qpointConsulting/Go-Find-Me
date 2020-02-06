@@ -9,7 +9,7 @@ import wx
 from GoFindMe import configParams
 from GoFindMe import goFindThem
 from pubsub import pub
-from GoFindMe import searchUsers
+from GoFindMe import goFindMe.searchUsers
 #from goFindThem import searchUsers
 
 
