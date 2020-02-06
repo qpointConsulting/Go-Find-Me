@@ -27,7 +27,7 @@ class MainFrame(wx.Frame):
         _pnl = wx.Panel(self)
         _nb = wx.Notebook(_pnl)
         
-        _pgOne = tabUName(_nb)
+        _pgOne = GoFindMe.tabUName(_nb)
         
         _nb.AddPage(_pgOne, "User Names")
         
