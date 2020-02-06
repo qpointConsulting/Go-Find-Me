@@ -8,7 +8,7 @@ interface to a wxPython GUI
 '''
 
 import wx
-import configParams
+from GoFindMe import configParams
 from goFindThem import searchUsers
 from pubsub import pub
 #from UName import tabUName
