@@ -1,2 +1,2 @@
-from GoFindMe import UName
-from GoFindMe import configParams
+from .UName import *
+from .configParams import *
