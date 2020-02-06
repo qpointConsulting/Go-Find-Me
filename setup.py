@@ -6,11 +6,11 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="python-GoFindMe", # Replace with your own username
     version="0.0.1",
+    packages=["src",],
     author="Bryan Galbraith, Micah Hoffman",
     author_email="qpoint@shaw.ca",
     description="A small app to locate usernames on various social media sites",
     url="https://github.com/qpointconsulting/Go-Find-Me",
-    package_dir={'': 'src'},
     packages=setuptools.find_packages(where="src"),
     classifiers=[
         "Programming Language :: Python :: 3",
