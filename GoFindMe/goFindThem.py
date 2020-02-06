@@ -14,7 +14,8 @@ import os
 import random
 import string
 import codecs
-import configParams
+#import configParams
+from GoFindMe import configParams
 import urllib3
 import csv 
 import concurrent.futures
