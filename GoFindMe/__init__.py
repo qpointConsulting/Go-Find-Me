@@ -1,2 +1,2 @@
-from GoFindMe.UName import *
-from GoFindMe.configParams import *
+from Go-Find-Me.GoFindMe.UName import *
+from Go-Find-Me.GoFindMe.configParams import *
