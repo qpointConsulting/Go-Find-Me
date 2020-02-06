@@ -8,7 +8,7 @@ interface to a wxPython GUI
 '''
 
 import wx
-from GoFindMe import configParams, goFindThem
+from GoFindMe import configParams, goFindThem, UName
 #from goFindThem import searchUsers
 from pubsub import pub
 #from UName import tabUName
@@ -28,7 +28,7 @@ class MainFrame(wx.Frame):
         _pnl = wx.Panel(self)
         _nb = wx.Notebook(_pnl)
         
-        _pgOne = tabUName(_nb)
+        _pgOne = UName.tabUName(_nb)
         
         _nb.AddPage(_pgOne, "User Names")
         
