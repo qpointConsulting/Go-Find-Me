@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Go-Find-Me-pkg-qpointconsulting", # Replace with your own username
+    name="GoFindMe-pkg-qpointconsulting", # Replace with your own username
     version="0.0.1",
     author="Bryan Galbraith, Mikah Hoffman",
     author_email="qpoint@shaw.ca",
