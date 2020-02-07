@@ -9,7 +9,7 @@ import wx
 #import configParams
 from pubsub import pub
 from GoFindMe import configParams, goFindThem 
-#from goFindThem import searchUsers
+from goFindThem import searchUsers
 
 
 class tabUName(wx.Panel):
