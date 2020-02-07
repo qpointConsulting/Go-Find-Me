@@ -69,7 +69,7 @@ class tabUName(wx.Panel):
     def onSearch(self, event):
         tmpMsg = self._unCtrl.GetValue()
         configParams.srchUserName = tmpMsg        
-        GoFindThem.searchUsers()
+        goFindThem.searchUsers()
                 
         # Updates the multi line text edit in the main panel, and checks to see if the 
         # text needs to be 'decorated' based on response codes
