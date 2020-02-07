@@ -9,7 +9,7 @@ import wx
 #import configParams
 from pubsub import pub
 from GoFindMe import configParams, goFindThem 
-from GoFindMe.goFindThem import searchUsers
+#from GoFindMe.goFindThem import searchUsers
 
 
 class tabUName(wx.Panel):
@@ -69,7 +69,7 @@ class tabUName(wx.Panel):
     def onSearch(self, event):
         tmpMsg = self._unCtrl.GetValue()
         configParams.srchUserName = tmpMsg        
-        searchUsers()
+        GoFindThem.searchUsers()
                 
         # Updates the multi line text edit in the main panel, and checks to see if the 
         # text needs to be 'decorated' based on response codes
