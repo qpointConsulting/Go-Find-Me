@@ -94,7 +94,7 @@ class searchUsers():
                 configParams.bcolour = 'ENDC'
                 return r
 
-        with open("GoFindMe/web_accounts_list.json") as data_file:
+        with open("/GoFindMe/web_accounts_list.json") as data_file:
             data = json.load(data_file)
         
         # store successful username locates to CSV file
