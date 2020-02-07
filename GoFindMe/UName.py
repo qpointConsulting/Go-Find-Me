@@ -5,7 +5,7 @@ Created on Jan 22, 2020
 '''
 
 import wx
-#import GoFindMe
+import GoFindMe
 #import configParams
 from pubsub import pub
 from GoFindMe import configParams, goFindThem 
