@@ -1,5 +1,5 @@
 wxPython==4.0.7.post2
 requests==2.22.0
 Pypubsub==4.0.3
-urllib3==1.25.7
+urllib3==1.26.5
 pubsub==0.1.2
